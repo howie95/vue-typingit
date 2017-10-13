@@ -1,0 +1,25 @@
+{
+  "name": "vue-typingit",
+  "version": "0.0.1",
+  "description": "A simple text typing/deleting animation component for Vue.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howie95/vue-typingit.git"
+  },
+  "keywords": [
+    "vue",
+    "typing",
+    "text",
+    "animation"
+  ],
+  "author": "howie95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howie95/vue-typingit/issues"
+  },
+  "homepage": "https://github.com/howie95/vue-typingit#readme"
+}
